@@ -1,0 +1,38 @@
+.container{
+    height: 400px;
+    width: 700px;
+    box-shadow: 0px 0px 8px 2px rgb(236, 164, 69);
+    margin: 100px auto;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: antiquewhite;
+}
+.container h1{
+    line-height: 100px;
+    text-shadow: 0px 4px 2px rgb(222, 178, 120);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    text-transform: capitalize;
+    width: 50%;
+    font-size: large;
+    
+
+}
+
+button{
+    padding: 15px;
+    margin-left: 20px;
+    font-size: large;
+    border-radius: 5px;
+    background-color: rgb(234, 195, 145);
+    border: none;
+    color: rgb(65, 63, 63);
+    text-transform: capitalize;
+    font-weight: bolder;
+}
